@@ -1,7 +1,7 @@
 # Project03-JuicyBreakout
 
 # Project Name
-Context and date
+Juicy Breakout 2/28/26
 
 Description
 
@@ -13,3 +13,4 @@ Which features you included
 ## Future Development
 
 ## Created by
+Zander Miller
